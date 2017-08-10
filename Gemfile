@@ -71,3 +71,12 @@ gem 'simple_form'
 
 #devise
 gem 'devise'
+
+#carrierwave
+gem 'carrierwave', '~> 1.0'
+
+#figaro
+gem 'figaro'
+
+#fog-aws
+gem "fog-aws"
